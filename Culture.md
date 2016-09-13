@@ -1,5 +1,28 @@
 # 文化
 
+## 2016-09-12
+
+  * Acme 分類下放的 library 通常是搞笑用的：
+
+    * 例如 au 的 [Acme::ComeFrom][Acme::ComeFrom] ，或
+
+    * Hackage 上的 [Acme.Missiles][Acme.Missiles] 。
+
+  [Acme::ComeFrom]: http://search.cpan.org/~autrijus/Acme-ComeFrom-0.07/lib/Acme/ComeFrom.pm
+  [Acme.Missiles]: https://hackage.haskell.org/package/acme-missiles-0.3
+
+## 2016-09-05
+
+  * whitglint 轉貼了王咏刚的[《不装逼地说，在 Google 到底能学到啥？》][10-years-at-google] ，開頭似乎婉轉地黑了一下 yinwang 。
+
+  [10-years-at-google]: http://mp.weixin.qq.com/s?__biz=MzA5NjM1MDI5Mg==&mid=2652283494&idx=1&sn=5674d47f906ed13dae8b1508e82d1861&scene=1&srcid=0902U1u8sFVBRHlL3CR91biS
+
+## 2016-09-03
+
+  * b4283 轉貼了 Nate Cook [emoji 年代的新 Big-O][emoji-big-o] 表示法。
+
+  [emoji-big-o]: https://twitter.com/nnnnnnnn/status/771794801725284352
+
 ## 2016-08-13
 
   * CindyLinz 轉貼了原刊載在 WIRED 的[在職場上，我真的成為了一個機器人][my-life-as-a-robot] ，和 letoh 討論人機一體是什麼感覺。

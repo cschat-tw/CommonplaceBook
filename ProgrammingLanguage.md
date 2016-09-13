@@ -1,5 +1,34 @@
 # Programming Language
 
+## 2016-09-12
+
+  * erlin 分享了 http://jelv.is/talks/ ，表示他講 types 那邊對閱讀 TaPL 有幫助。
+
+    * 莫忘 TaPL [共筆][TaPL-hackpad]。
+
+  [TaPL-hackpad]: https://hackpad.com/TaPL--y8iYXwtcG1G
+
+## 2016-09-04
+
+  * Bloomberg 推出了 Ocaml to JS 的 [BuckleScript][BuckleScript] 。
+
+  * CindyLinz 在「Re: [討論] 唐鳳真的很有名嗎?很厲害嗎?」串的[某一篇][twowoods]中提到了 au 參與實作了 GADTs 。
+
+    * 是 [2014-07-04][2014-07-04] 23:14:24 親口在頻道上聽 au 說的。
+
+    * b4283 想念了一下 hashcat 。
+
+    * kuanyui 想起 au 在[「函數程式設計的商業應用」][FLOLAC14]中提過 Perl 6 spec 是在實作中釐清的：
+
+      > 所以當我們實際把它實作出來的時候，就發現這個有點像是，如果有看過倚天屠龍記的話，乾坤大挪移如果從第七層練起的那種感受，所以說完全自相矛盾，那個spec裡面看起來寫得非常順的，事實上實作起來完全不是這麼一回事。
+      >
+      > 所以我們就跟Larry說寫錯了，你這邊跟這邊自相矛盾，然後我們實作出來發現是矛盾的。他說對！好，那太好了，我來擴充spec(笑)。
+
+  [BuckleScript]: https://github.com/bloomberg/bucklescript
+  [twowoods]: https://www.ptt.cc/bbs/Soft_Job/M.1472870684.A.962.html
+  [2014-07-04]: http://cindy.csie.org/irc.log/haskell.tw/haskell.tw-2014/%23haskell.tw-2014-07-04
+  [FLOLAC14]: https://hackpad.com/CUFP-FLOLAC14-PoPV1V9wVse
+
 ## 2016-08-21
 
   * erlin 發現 Soft_Job 版又在[戰遞迴](https://www.ptt.cc/bbs/Soft_Job/M.1471692879.A.0C1.html)了。
