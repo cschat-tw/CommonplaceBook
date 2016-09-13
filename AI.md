@@ -1,12 +1,5 @@
 # AI
 
-## 2016-09-12
-
-  * thinker 提到了 [How to Teach Computational Thinking][computational-thinking]
-    還有 Wolfram Language 。
-
-  [computational-thinking]: http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/
-
 ## 2016-08-12
 
   * petercommand 申請了 [Human Brain Project][HBP] 的 identity account 。
