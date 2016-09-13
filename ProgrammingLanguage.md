@@ -2,7 +2,7 @@
 
 ## 2016-08-21
 
-  * erlin 發現 Soft_Job 版又在[戰遞迴](https://gcc.gnu.org/onlinedocs/gcc/Unnamed-Fields.html#Unnamed-Fields)了。
+  * erlin 發現 Soft_Job 版又在[戰遞迴](https://www.ptt.cc/bbs/Soft_Job/M.1471692879.A.0C1.html)了。
 
     * CindyLinz 分享了自己怎麼靠 stack [想著遞迴寫迴圈][fuzzy_find_gen.h]。
 
