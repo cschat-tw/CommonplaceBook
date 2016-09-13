@@ -2,10 +2,7 @@
 
 ## 2016-09-09
 
-  * descend 分享的 tinlans 講解有關 library 設計的[心得][policy-based]，提到 GoF  
-    的範例大多建立在動態多型的世界， template 實作是立足在靜態多型的世界，並舉例  
-    詳細說明兩個世界的需求有多大的差異，警惕後進不要分不清楚使用情境，影響自己的  
-    成長。
+  * descend 分享的 tinlans 講解有關 library 設計的[心得][policy-based]，提到 GoF 的範例大多建立在動態多型的世界， template 實作是立足在靜態多型的世界，並舉例詳細說明兩個世界的需求有多大的差異，警惕後進不要分不清楚使用情境，影響自己的成長。
 
   [policy-based]: https://www.ptt.cc/bbs/C_and_CPP/M.1473355423.A.378.html
 
@@ -15,17 +12,17 @@
 
     * CindyLinz 向 kuanyui 解釋了怎麼樣閱讀 function pointer ：
 
-      > 12:03:59 <CindyLinz> kuanyui_hp: 果然感受到滿滿的惡意了... XD
-      > 12:04:28 <CindyLinz> kuanyui_hp: 我覺得先看 function pointer 再回頭看 array 的會比較好懂
-      > 12:05:14 <CindyLinz> 其實只是語法很怪, 一部分的 type 寫在 identity 的後面.....
-      > 12:05:26 <CindyLinz> int (*)(char, double) 是一個 fun ptr
-      > 12:05:40 <CindyLinz> 指向... 吃 char 與 double 以後吐一個 int 的 function
-      > 12:05:58 <CindyLinz> 如果同時要寫這個 fun ptr 的 name 的話, 語法是
-      > 12:06:03 <CindyLinz> int (*funptr)(char, double)
-      > 12:06:57 <CindyLinz> 然後然後, 如果後面的 (char, double) 改成 [5][3] 這樣子像 array size 的東西.. 那麼就變成指向一個大小為 [5][3] 二維陣列的 aryptr
-      > 12:07:34 <CindyLinz> 畢竟... 要指向 function, 當然會需要知道一下被指的 function 的參數 type 與 return type?
-      > 12:10:39 <CindyLinz> kuanyui_hp: 那個... funptr type 很怪的問題, 可以有一種「只痛一次」的寫法
-      > 12:11:02 <CindyLinz> kuanyui_hp: 先 typedef int (*funptr_t)(char, double); 然後就可以 funptr_t my_funptr; 這樣 ^^|
+      > CindyLinz> kuanyui_hp: 果然感受到滿滿的惡意了... XD  
+      > CindyLinz> kuanyui_hp: 我覺得先看 function pointer 再回頭看 array 的會比較好懂  
+      > CindyLinz> 其實只是語法很怪, 一部分的 type 寫在 identity 的後面.....  
+      > CindyLinz> int (*)(char, double) 是一個 fun ptr  
+      > CindyLinz> 指向... 吃 char 與 double 以後吐一個 int 的 function  
+      > CindyLinz> 如果同時要寫這個 fun ptr 的 name 的話, 語法是  
+      > CindyLinz> int (*funptr)(char, double)  
+      > CindyLinz> 然後然後, 如果後面的 (char, double) 改成 [5][3] 這樣子像 array size 的東西.. 那麼就變成指向一個大小為 [5][3] 二維陣列的 aryptr  
+      > CindyLinz> 畢竟... 要指向 function, 當然會需要知道一下被指的 function 的參數 type 與 return type?  
+      > CindyLinz> kuanyui_hp: 那個... funptr type 很怪的問題, 可以有一種「只痛一次」的寫法  
+      > CindyLinz> kuanyui_hp: 先 typedef int (*funptr_t)(char, double); 然後就可以 funptr_t my_funptr; 這樣 ^^|
 
 ## 2016-09-03
 
