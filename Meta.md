@@ -4,20 +4,20 @@
 
   * 討論翻譯與洪蘭時， @kuanyui 使用了奇妙的句型「...到一種爸爸死掉的地步」，於是開始了造樣造句大賽，被  @letoh 命名為「爸爸之亂」XD
 
-    > kuanyui_> CindyLinz: 我很清楚自己的英文能力完全無法看懂那種書 orz
+    > kuanyui_> CindyLinz: 我很清楚自己的英文能力完全無法看懂那種書 orz  
     > CindyLinz> kuanyui_: 洪蘭可能也很清楚... (ry  
     > kuanyui_> 還好不是唸社會學系，社會學、人文類領域的英文超難讀的  
-    > kuanyui_> 難讀到一種爸爸死掉的地步
-    > CindyLinz> hmm.... 爸爸死掉的地步不知道是怎樣的一種境界
-    > kuanyui_> CindyLinz: 就是靠北(哭爸)的境界
-    > CindyLinz> 來練習一下.. 今年中秋烤肉好吃到了爸爸死掉的地步...
-    > kuanyui_> CindyLinz: 好煩 wwww
-    > CindyLinz> 烤肉時爸爸說了一個很好笑的笑話, 好笑到爸爸死掉的地步..
-    > CindyLinz> 我好像可以想像到笑到窒息的感覺 XD
-    > letoh> 爸爸笑點太低 XD
-    > caasih> 社會系的睡了？XD
-    > letoh> 這時間他通常睡了吧
-    > CindyLinz> 這時間他通常睡到一個爸爸死掉的地步
+    > kuanyui_> 難讀到一種爸爸死掉的地步  
+    > CindyLinz> hmm.... 爸爸死掉的地步不知道是怎樣的一種境界  
+    > kuanyui_> CindyLinz: 就是靠北(哭爸)的境界  
+    > CindyLinz> 來練習一下.. 今年中秋烤肉好吃到了爸爸死掉的地步...  
+    > kuanyui_> CindyLinz: 好煩 wwww  
+    > CindyLinz> 烤肉時爸爸說了一個很好笑的笑話, 好笑到爸爸死掉的地步..  
+    > CindyLinz> 我好像可以想像到笑到窒息的感覺 XD  
+    > letoh> 爸爸笑點太低 XD  
+    > caasih> 社會系的睡了？XD  
+    > letoh> 這時間他通常睡了吧  
+    > CindyLinz> 這時間他通常睡到一個爸爸死掉的地步  
 
     例如：
 
