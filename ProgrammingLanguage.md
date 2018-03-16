@@ -1,5 +1,29 @@
 # Programming Language
 
+## 2018-03-17
+
+  * saemcro:
+
+    > GHC 一到店，所有的 compiler 便都看著他笑，有的叫道，「GHC，你 type system 又添上新 type inference extension 了！」
+    >
+    > 他不回答，對櫃裡說，「宣告兩個 type family，要一個 higher-kinded polymorphism。」便排出九個 forall。
+    >
+    > 他們又故意的高聲嚷道，「你一定又多了新的 unsoundness 了！」
+    >
+    > GHC 睜大眼睛說，「你怎麼這樣憑空污人清白……」
+    >
+    > 「什麼清白？我前天親眼見你編譯了何家的 code，segmentation fault。」
+    >
+    > GHC 便漲紅了臉，額上的青筋條條綻出，爭辯道，「type inference 不能算 unsoundness……type inference！……compile-time 的事，能算軟麼？」
+    >
+    > 接連便是難懂的話，什麼「local type inference」，什麼「Skolem」之類，引得眾人都鬨笑起來：店內外充滿了快活的空氣。
+    >
+    > #民明書房 - GHC乙己
+
+    原版是[新乙己][M.1521094064.A.488]。
+
+  [M.1521094064.A.488]: https://www.ptt.cc/bbs/joke/M.1521094064.A.488.html
+
 ## 2016-09-12
 
   * erlin 分享了 http://jelv.is/talks/ ，表示他講 types 那邊對閱讀 TaPL 有幫助。
